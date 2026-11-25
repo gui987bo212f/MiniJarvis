@@ -1,0 +1,21 @@
+# PlatformIO
+.pio/
+.vscode/
+firmware/.pio/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+*.key
+
+# Files the console saves in the current folder
+jarvis-*.wav
+jarvis-*.jpg
+
+# Host test build
+test/fw
